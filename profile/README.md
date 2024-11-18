@@ -14,7 +14,5 @@
 | Project | Repository                                                                       |
 | ------: | :------------------------------------------------------------------------------- |
 |     Bot | [exd-tiktok-bot](https://github.com/PJATK-s28476/exd-tiktok-bot)                 |
-|     API | [exd-tiktok-bot-api](https://github.com/PJATK-s28476/exd-tiktok-bot-api)         |
-| Website | [exd-tiktok-bot-website](https://github.com/PJATK-s28476/exd-tiktok-bot-website) |
 
 </details>
