@@ -13,6 +13,6 @@
 
 | Project | Repository                                                                       |
 | ------: | :------------------------------------------------------------------------------- |
-|     Bot | [exd-tiktok-bot](https://github.com/PJATK-s28476/exd-tiktok-bot)                 |
+|     Bot | [exd-tiktok-bot](https://github.com/ExdBots/exd-tiktok-bot)                      |
 
 </details>
