@@ -1,18 +1,25 @@
----
-
 ![banner](./main-banner.gif)
 
 ---
 
-# Welcome to the ExdBots Organization!
+## Our Projects
 
-## These are the bots we run
+### 🤖 TikTok Downloader Bot
 
-<details>
-<summary><b>Tiktok Downloader Bot</b></summary><br>
+> Telegram bot for downloading TikTok media — videos, photos, albums, and audio.
 
-| Project | Repository                                                                       |
-| ------: | :------------------------------------------------------------------------------- |
-|     Bot | [exd-tiktok-bot](https://github.com/ExdBots/exd-tiktok-bot)                      |
+| | |
+|---|---|
+| **Stack** | Deno · GrammY · Hono · tRPC · Drizzle ORM · BullMQ |
+| **Features** | Multi-format downloads, admin panel, referral system, premium tiers, i18n (EN/UK/RU) |
+| **Repo** | [`exd-tiktok-bot`](https://github.com/ExdBots/exd-tiktok-bot) |
 
-</details>
+---
+
+### 🎨 Design Assets
+
+> Pencil.dev design files for ExdBots projects.
+
+| | |
+|---|---|
+| **Repo** | [`pencil`](https://github.com/ExdBots/pencil) |
